@@ -1,0 +1,13 @@
+
+[1mFrom:[0m /home/nitrous/code/day5/hs-oo-banking-precollege-se1-nyda-061515-1/lib/bank_account.rb @ line 47 BankAccount#valid?:
+
+    46:   [32mdef[0m [1;34mvalid?[0m
+ => 47:     binding.pry
+    48:     [32mif[0m @balance == [1;34m0[0m
+    49:       @status = [31m[1;31m"[0m[31mclosed[1;31m"[0m[31m[0m
+    50:       [32mreturn[0m [1;36mfalse[0m
+    51:     [32melsif[0m @balance > [1;34m0[0m
+    52:       [32mreturn[0m [1;36mtrue[0m
+    53:   [32mend[0m
+    54: [32mend[0m
+

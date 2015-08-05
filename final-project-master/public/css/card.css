@@ -1,0 +1,158 @@
+/* body {
+  background-image: url("http://bgfons.com/upload/grass_texture241.jpg");
+   background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: 100% 100%;
+}
+ */
+#name{
+   font-size: 21px;
+   font-weight: bold;
+ }
+    
+#rating{
+   font-size: 35px;
+   font-weight: bold;
+   position: absolute;
+   left: 30px;
+   top: 15px;
+ }
+    
+#position{
+   font-size: 19px;
+   font-weight: bold;
+   position: absolute;
+   left: 76px;
+   top: 48px;
+ }
+    
+#pac{
+    font-size: 19px;
+    font-weight: bold;
+    position: absolute;
+    left: 40px;
+    top: 213px;
+ }
+    
+#sho{
+    font-size: 19px;
+    font-weight: bold;
+    position: absolute;
+    left: 40px;
+    top: 247px;
+ }
+    
+#pas{
+   font-size: 19px;
+   font-weight: bold;
+   position: absolute;
+   left: 40px;
+   top: 275px;
+ }
+    
+#dri{
+   font-size: 19px;
+   font-weight: bold;
+   position: absolute;
+   left: 165px;
+   top: 213px;
+ }
+    
+#def{
+  font-size: 19px;
+   font-weight: bold;
+   position: absolute;
+   left: 165px;
+   top: 247px;
+ }
+    
+#phy{
+   font-size: 19px;
+   font-weight: bold;
+   position: absolute;
+   left: 165px;
+   top: 275px;
+ }
+    
+#img{
+   position: absolute;
+   left: 109px;
+   top: 62px;
+    }
+    
+#club{
+   position: absolute;
+   top: 107px;
+   left: 42px;
+    }
+    
+#flag{
+    position: absolute;
+    top: 160px;
+    left: 42px;
+    }
+
+#cem{
+    margin-top: 133px;
+    font-size: 21px;
+    }
+#margin {
+   float: left;
+   clear: both; 
+   color: black;
+  position: relative;
+   left: 560px;
+  top: -370px;
+}
+
+#messi {
+   position: fixed;
+    top: 0px;
+    right: 0px;
+}
+#ronaldo {
+  position: fixed;
+    top: 368px;
+    right: 0px;
+}
+#neymar {
+   position: fixed;
+    top: 368px;
+    right: 580px;
+}
+#rooney {
+  position: fixed;
+    top: 0px;
+    right: 580px;
+}
+#margintwo {
+  color: white;
+   position: fixed;
+    top: 345px;
+    left: 20px;
+}
+
+#marginthree {
+  color: white;
+   position: fixed;
+    top: 373px;
+    left: 20px;
+}
+#marginfour {
+  color: white;
+   position: fixed;
+    top: 430px;
+    left: 25px;
+}
+#marginfive {
+  color: white;
+   position: fixed;
+    top: 458px;
+    left: 25px;
+}
+#marginsix {
+  color: white;
+   position: fixed;
+    top: 486px;
+    left: 25px;
+}
